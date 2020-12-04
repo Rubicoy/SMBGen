@@ -1,0 +1,13 @@
+matplotlib
+ray[rllib]
+lz4
+gym
+tabulate
+pygame
+opencv-python
+tensorflow>=2.0.0b1
+tensorflow-probability
+tensorboardX
+pandas
+numpy
+setuptools>=41.0.0
